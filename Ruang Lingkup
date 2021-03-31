@@ -1,0 +1,4 @@
+Ruang Lingkup
+
+	Sistem dalam GameplayTime adalah sistem yang digunakan untuk mengelola informasi yang 
+  di dalamnya terdapat data-data yang dapat di akses melalui Android. Informasi ini mencakup di antaranya : data user,data admin, data lokasi,data jumlah pemain.
